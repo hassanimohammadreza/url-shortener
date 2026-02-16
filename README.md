@@ -104,7 +104,7 @@ The application will be available at:
 
 ### 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](https://github.com/hassanimohammadreza/url-shortener/blob/3c5255b3404853f1785629346a01745fc2fa5df4/static/url-shortener.png?raw=true)
 
 ---
 
@@ -117,7 +117,7 @@ This project is licensed under the MIT License.
 ### 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: `https://github.com/hassanimohammadreza`
 
 ---
 
