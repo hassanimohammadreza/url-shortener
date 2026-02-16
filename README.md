@@ -6,8 +6,8 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
-A lightweight and minimal URL shortener built with **Flask** that integrates with the **is.gd API** to generate short links instantly.
-> 🏗 Architecture: **Simple Monolithic Flask Application**
+A minimal URL shortener built with **Flask** that integrates with the **is.gd API** to generate short links instantly.
+> 🏗 Architecture: **Monolithic Flask Application**
 >
 > This project follows a single-file Flask architecture where all routes and logic are defined inside one main application file (`url_shortener.py`).  
 > This structure is ideal for small-scale applications, MVPs, and educational projects.
