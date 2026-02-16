@@ -116,7 +116,7 @@ This project is licensed under the MIT License.
 
 ### 👨‍💻 Author
 
-Your Name
+Mohammadreza Hassani  
 GitHub: `https://github.com/hassanimohammadreza`
 
 ---
